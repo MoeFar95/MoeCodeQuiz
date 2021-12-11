@@ -7,3 +7,5 @@ This is a quiz about a popular series called Naruto. It is an anime/manga create
 ## Fun part
 
 You can prove yourself on having the highest score!
+
+<img alt="https://imgur.com/a/Emh6Ih7" src="https://imgur.com/a/Emh6Ih7">
