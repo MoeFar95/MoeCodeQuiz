@@ -8,4 +8,4 @@ This is a quiz about a popular series called Naruto. It is an anime/manga create
 
 You can prove yourself on having the highest score!
 
-![](https://imgur.com/a/Emh6Ih7)
+[link](https://imgur.com/a/Emh6Ih7)
