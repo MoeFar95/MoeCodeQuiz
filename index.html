@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--Title of the web page-->
+    <title>Naruto Quiz</title>
+<!--Link to the CSS Style Sheet-->
+    <link rel="stylesheet" href="./assets/css/styles.css" />
+</head>
+<body>
+    <header>
+        <!--This link takes  users to the the high scores page-->
+    <div class="scores"><a href="highscore.html">View Highscores</a></div>
+    </header>
+<!--div for the timer-->
+    <div class="time"><span id="currentTime">0</span></div>
+<!--this is the wrapper to the start screen-->
+    <div class="wrapper">
+        <div id="questionsDiv" class="start">
+            <h1>Naruto Uzumaki Pop Quiz</h1>
+            <p>
+                How much do you know about Naruto? Find out!
+            </p>
+<!--Will display the choices to the questions-->
+            <ul id="choicesUl"></ul>
+            <!-- Buttons -->
+            <button id="startTime">Start Quiz</button>
+        </div>
+    </div>
+    <script src="./assets/javascript/script.js"></script>
+</body>
+</html>
